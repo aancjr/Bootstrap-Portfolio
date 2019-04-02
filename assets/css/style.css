@@ -32,6 +32,19 @@ body {
     margin-top: 12px;
 }
 
+.nav-link {
+    color: #777777;
+    cursor: pointer;
+}
+
+a: hover {
+    color: #4aaaa5;
+}
+
+a: visited {
+    color: #00B4E1;
+}
+
 .container {
     margin: auto;
     width: 960px;
